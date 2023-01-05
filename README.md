@@ -5,3 +5,9 @@ The currently very basic binary patcher of Chimera. It supports patching every p
 - Windows XP support
 - add other messengers
 - better ui
+
+### Tutorial
+1. Install official build
+2. Make sure MySpace doesn't run
+3. run patcher
+4. enjoy!
